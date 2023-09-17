@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSL.FizzBuzz.ConsoleApp", "CSL.FizzBuzz.ConsoleApp\CSL.FizzBuzz.ConsoleApp.csproj", "{7CFABC03-3AE1-4F8C-B8E1-28732320E788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSL.FizzBuzz.UnitTests", "CSL.FizzBuzz.UnitTests\CSL.FizzBuzz.UnitTests.csproj", "{3CB85ECC-AFBD-47ED-9709-A1FE2E26EB92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFABC03-3AE1-4F8C-B8E1-28732320E788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFABC03-3AE1-4F8C-B8E1-28732320E788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFABC03-3AE1-4F8C-B8E1-28732320E788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFABC03-3AE1-4F8C-B8E1-28732320E788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB85ECC-AFBD-47ED-9709-A1FE2E26EB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB85ECC-AFBD-47ED-9709-A1FE2E26EB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB85ECC-AFBD-47ED-9709-A1FE2E26EB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB85ECC-AFBD-47ED-9709-A1FE2E26EB92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
